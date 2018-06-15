@@ -12,3 +12,5 @@ OK maybe now right readme
 Now, I can fuck shit up
 
 #Last updated: 2018-06-15
+
+commit 1
